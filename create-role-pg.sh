@@ -1,0 +1,1 @@
+REATE ROLE some-user-role-here PASSWORD 'some-password-here' SUPERUSER CREATEDB CREATEROLE INHERIT LOGIN;
